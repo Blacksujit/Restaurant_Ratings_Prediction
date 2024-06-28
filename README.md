@@ -29,20 +29,35 @@ restaurant-rating-prediction/
 
 ```
 
-## Frontend Setup:
+## Frontend Setup:  (Made with Reactjs)
 
-for frontend setup navigate to-->
 
- [README1.md](#README1.md)
+## Installation:
 
+
+1.  Navigate to the `frontend/` directory.
+
+2. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+3. Start the React development server:
+
+    ```bash
+    npm start
+    ```
+
+4. The application will open in your browser at `http://localhost:3000.`
 
 ## Responsive Web Page (Created with ❤️ by Reactjs):
 
-# frontend Page:
+## frontend Page:
 
 ![alt text](image.png)
 
-# Prediction Rating:
+## Prediction Rating:
 
 ![alt text](image-1.png)
 
