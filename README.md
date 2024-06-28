@@ -29,7 +29,14 @@ restaurant-rating-prediction/
 
 ```
 
-# Responsive Web Page (Created with ❤️ by Reactjs):
+## Frontend Setup:
+
+for frontend setup navigate to-->
+
+ [README1.md](#README1.md)
+
+
+## Responsive Web Page (Created with ❤️ by Reactjs):
 
 # frontend Page:
 
